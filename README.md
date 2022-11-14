@@ -62,3 +62,8 @@ $
 
 <h4>Exiting the Shell</h4>
 <p><code>exit</code>To quit the shell the user can simple type in "exit"</p>
+
+<h3>Authors: </h3>
+<ul>
+<li> Princess Nnaji - <a herf="princessamphora@gmail.com">princessamphora@gmail.com</a></li>
+</ul>
