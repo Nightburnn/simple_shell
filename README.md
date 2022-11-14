@@ -51,14 +51,14 @@ $
 
 <h4>List of helpful commands</h4>
 <ul>
-<li><pre><code>cat</code></pre> -  prints and concatenates files to the standard output</li>
-<li><pre><code>ls</code></pre> - will list all files and directories in current working directory</li>
-<li><pre><code>cp</code></pre> - copies a file into another file</li>
-<li><pre><code>grep</code></pre> - helps to search for a file in a specific pattern</li>
-<li><pre><code>less</code></pre> - will let you go backward and forward in the files</li>
-<li><pre><code>pwd</code></pre> - given you the current working directory
-<li><pre><code>mv</code></pre> -  helps to move one file into another file
+<li><code>cat</code> -  prints and concatenates files to the standard output</li>
+<li><code>ls</code> - will list all files and directories in current working directory</li>
+<li><code>cp</code> - copies a file into another file</li>
+<li><code>grep</code> - helps to search for a file in a specific pattern</li>
+<li><code>less</code> - will let you go backward and forward in the files</li>
+<li><code>pwd</code> - given you the current working directory
+<li><code>mv</code> -  helps to move one file into another file
 </ul>
 
 <h4>Exiting the Shell</h4>
-<p><pre><code>exit</code></pre>To quit the shell the user can simple type in "exit"</p>
+<p><code>exit</code>To quit the shell the user can simple type in "exit"</p>
