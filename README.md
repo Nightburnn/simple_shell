@@ -9,11 +9,7 @@
 
 <h3>Our Shell in modes:</h3>
 
-
-
 <p>in interactive mode:</p>
-
-
 
 <pre><code>$ ./hsh
 
@@ -30,8 +26,6 @@ $
 
 <p>But also in non-interactive mode:</p>
 
-
-
 <pre><code>$ echo &quot;/bin/ls&quot; | ./hsh
 
 AUTHORS  built-ins.c  helper.c  hsh  man_simple_shell  path.c  README.md  shell.c  shell.h  str.c
@@ -39,13 +33,11 @@ AUTHORS  built-ins.c  helper.c  hsh  man_simple_shell  path.c  README.md  shell.
 $
 
 $ cat AUTHORS
-# This file lists all individuals who contributed to the repository                                                                     
+# This file lists all individuals who contributed to the repository
 
-                                                                                                                                        
+Ashley John <nightburn2003@gmail.com>
 
-Ashley John <nightburn2003@gmail.com>                                                                                                   
-
-Princess Nnaji <princessamphora@gmail.com>     
+Princess Nnaji <princessnnaji21@gmail.com>
 $
 </code></pre>
 
