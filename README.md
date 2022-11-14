@@ -65,5 +65,6 @@ $
 
 <h3>Authors: </h3>
 <ul>
-<li> Princess Nnaji - <a herf="princessamphora@gmail.com">princessamphora@gmail.com</a></li>
+<li> Princess Nnaji - <a href="princessamphora@gmail.com">princessamphora@gmail.com</a></li>
+<li> Ashley John - <a href="nightburn2003@gmail.com">nightburn2003@gmail.com</a></li>
 </ul>
