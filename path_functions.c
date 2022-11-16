@@ -12,7 +12,7 @@ char *_strstr(char *haystack, char *needle)
 
 	char *substring = NULL;
 
-	needle_len = 0
+	needle_len = 0;
 
 	for (i = 0; needle[i] != '\0'; i++)
 		;
