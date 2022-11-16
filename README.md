@@ -37,7 +37,7 @@ $ cat AUTHORS
 
 Ashley John <nightburn2003@gmail.com>
 
-Princess Nnaji <princessnnaji21@gmail.com>
+Princess Nnaji <princessamphora@gmail.com>
 $
 </code></pre>
 

@@ -4,7 +4,6 @@ B.\"Manpage for simple shell
 The shell is a command line interface (CLI) program that takes commands from the keyboard and gives them to the operating system to perform.
 
 .SH BUILTINS
-
 The following builtin commands are supported:
 
 .B env
@@ -40,4 +39,4 @@ Sodash\fR takes basic functionality of the \fBsh\fR shell. This man page is base
 
 .SH AUTHORS
 
-Ashley John & Princess Nnaji
+Ashley John & Princess Nnaji.
