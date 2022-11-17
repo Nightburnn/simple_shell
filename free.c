@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 
 /**
  * bfree - freees a pointer and NULLs the address
